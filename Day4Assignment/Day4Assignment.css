@@ -1,0 +1,47 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: bisque;
+}
+h2 {
+  color: brown;
+  text-align: center;
+}
+p {
+  font-size: 14px;
+}
+div {
+  margin-left: 39%;
+}
+label {
+  font-weight: bold;
+  font-size: 17px;
+}
+input,
+select {
+  background-color: white;
+}
+select option {
+  background-color: rgb(215, 231, 245);
+}
+select:hover {
+  cursor: pointer;
+}
+.send:hover {
+  background-color: aqua;
+  cursor: pointer;
+}
+.send {
+  margin-left: 14.5%;
+  width: 5em;
+  height: 2em;
+}
+#radio:hover {
+  cursor: pointer;
+}
+::-webkit-input-placeholder {
+  text-align: center;
+}
+
+.success {
+  margin-left: 42%;
+}
